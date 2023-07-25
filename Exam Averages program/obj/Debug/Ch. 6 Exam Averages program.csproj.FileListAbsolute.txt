@@ -1,0 +1,6 @@
+C:\Users\atomp\source\repos\Ch. 6 Exam Averages program\bin\Debug\Ch. 6 Exam Averages program.exe.config
+C:\Users\atomp\source\repos\Ch. 6 Exam Averages program\bin\Debug\Ch. 6 Exam Averages program.exe
+C:\Users\atomp\source\repos\Ch. 6 Exam Averages program\bin\Debug\Ch. 6 Exam Averages program.pdb
+C:\Users\atomp\source\repos\Ch. 6 Exam Averages program\obj\Debug\Ch. 6 Exam Averages program.csprojAssemblyReference.cache
+C:\Users\atomp\source\repos\Ch. 6 Exam Averages program\obj\Debug\Ch. 6 Exam Averages program.exe
+C:\Users\atomp\source\repos\Ch. 6 Exam Averages program\obj\Debug\Ch. 6 Exam Averages program.pdb

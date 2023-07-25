@@ -1,0 +1,7 @@
+C:\Users\atomp\source\repos\Ch. 7 Month Array\bin\Debug\Ch. 7 Month Array.exe.config
+C:\Users\atomp\source\repos\Ch. 7 Month Array\bin\Debug\Ch. 7 Month Array.exe
+C:\Users\atomp\source\repos\Ch. 7 Month Array\bin\Debug\Ch. 7 Month Array.pdb
+C:\Users\atomp\source\repos\Ch. 7 Month Array\obj\Debug\Ch. 7 Month Array.csprojAssemblyReference.cache
+C:\Users\atomp\source\repos\Ch. 7 Month Array\obj\Debug\Ch. 7 Month Array.exe
+C:\Users\atomp\source\repos\Ch. 7 Month Array\obj\Debug\Ch. 7 Month Array.pdb
+C:\Users\atomp\source\repos\Ch. 7 Month Array\obj\Debug\Ch. 7 Month Array.csproj.CoreCompileInputs.cache
